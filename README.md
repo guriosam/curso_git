@@ -1,2 +1,2 @@
 # curso_git
-Repositório para exemplos da aula do curso de Git
+Repositório123 para exemplos da aula do curso de Git
