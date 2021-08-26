@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Fatorial123 {
+public class Fatorial321 {
 
     public static void main(String[] args){
     
